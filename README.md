@@ -65,7 +65,7 @@ The dashboard presents insights into churn rate, customer tenure, contract types
 ## 6. Screenshot
 📷 **Dashboard Preview**
 
-
+https://github.com/tanmaydari/Customer-Churn/blob/main/Screenshot%202026-01-29%20145330.png
 ---
 
 ## 📌 Conclusion
